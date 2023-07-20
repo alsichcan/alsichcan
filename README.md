@@ -17,9 +17,9 @@ Seoul National University (2017-2022)
 🔸[Private Rental Deposit Guarantee Insurance]()  
 🔸[Short-term Subletting Service]()  
 🔸[Workcation Center Fractional Investment Platform]()  
-**[Modoom]():** Django-based web application for university students to address social isolation by COVID-19  
-**[ERGPT]():** (WIP) OpenAI API-based application to address the delay in transporting emergency patients  
-**[Sound of the Mind]():** Kotlin-based smartwatch-smartphone application for stress detection and recording
+**[Modoom](https://github.com/alsichcan/Modoom):** Django-based web application for university students to address social isolation by COVID-19  
+**[ERGPT](https://github.com/alsichcan/ERGPT):** (WIP) OpenAI API-based application to address the delay in transporting emergency patients  
+**[Sound of the Heart](https://github.com/alsichcan/Sound-of-the-Heart):** Kotlin-based smartwatch-smartphone application for stress detection and recording
  
 ## 🔬 **Research Experience**  
 Undergraduate Research Assistant at [Human Factors Psychology Lab](https://hfpsych.snu.ac.kr/)  
