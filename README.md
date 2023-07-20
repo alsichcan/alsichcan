@@ -18,8 +18,9 @@ Seoul National University (2017-2022)
 🔸[Short-term Subletting Service]()  
 🔸[Workcation Center Fractional Investment Platform]()  
 **[Modoom](https://github.com/alsichcan/Modoom):** Django-based web application for university students to address social isolation by COVID-19  
+**[Sound of the Heart](https://github.com/alsichcan/Sound-of-the-Heart):** Kotlin-based smartwatch-smartphone application for stress detection and recording  
+**[novelGPT](https://github.com/alsichcan/novelGPT):** OpenAI API-based web novel QA bot developed for my brother's task  
 **[ERGPT](https://github.com/alsichcan/ERGPT):** (WIP) OpenAI API-based application to address the delay in transporting emergency patients  
-**[Sound of the Heart](https://github.com/alsichcan/Sound-of-the-Heart):** Kotlin-based smartwatch-smartphone application for stress detection and recording
  
 ## 🔬 **Research Experience**  
 Undergraduate Research Assistant at [Human Factors Psychology Lab](https://hfpsych.snu.ac.kr/)  
