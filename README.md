@@ -12,7 +12,7 @@ Seoul National University (2017-2022)
 
 
 ## 🚀 **Technical Projects**
-**[GreatZipsa](https://github.com/alsichcan/GreatZipsa):** Django-based Minimum Viable Products to address inefficient Korean Housing Market
+**[GreatZipsa](https://github.com/alsichcan/GreatZipsa):** Django-based Minimum Viable Products for PropTech Startup to address inefficient Korean Housing Market  
 🔸[Apartment Fractional Investment Platform](https://github.com/alsichcan/GreatZipsa/tree/main/Apartment%20Fractional%20Investment%20Platform)  
 🔸[Private Rental Deposit Guarantee Insurance](https://github.com/alsichcan/GreatZipsa/tree/main/Private%20Rental%20Deposit%20Guarantee%20Insurance)  
 🔸[Short-term Subletting Service](https://github.com/alsichcan/GreatZipsa/tree/main/Short-term%20Subletting%20Service)  
