@@ -26,11 +26,11 @@ Seoul National University (2017-2022)
 Undergraduate Research Assistant at [Human Factors Psychology Lab](https://hfpsych.snu.ac.kr/)  
 
 **Research Project with Smilegate AI**  
-🔸Pre-processed 2,300 dialogs and surveys from crowdsourcing with a Python script  
+🔸Pre-processed 2,300 dialogs and surveys from crowdsourcing with a [Python script](https://github.com/alsichcan/Human-Factors-Psychology-Lab/blob/main/human_dialog_processing.ipynb)  
 🔸Published ["Feels like I’ve known you forever”: Empathy and Self-Awareness in Human Open-Domain Dialogs"](https://psyarxiv.com/9qptj) at CogSci 2022
 
 **Others**  
-🔸Pre-processed collected emotion diary data for further research with a Python script  
+🔸Pre-processed collected emotion diary data for further research with a [Python script](https://github.com/alsichcan/Human-Factors-Psychology-Lab/blob/main/emotion_diary_processing.py)  
 🔸Reviewed and corrected the labeling quality of the utterance-cognitive error dataset 
 
 ## 🔍 **Other Tech-Related Experience**
