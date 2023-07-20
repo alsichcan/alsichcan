@@ -12,11 +12,11 @@ Seoul National University (2017-2022)
 
 
 ## 🚀 **Technical Projects**
-**[GreatZipsa]():** Minimum Viable Products and Crawling Scripts to address inefficient Korean Housing Market  
-🔸[Apartment Fractional Investment Platform]()  
-🔸[Private Rental Deposit Guarantee Insurance]()  
-🔸[Short-term Subletting Service]()  
-🔸[Workcation Center Fractional Investment Platform]()  
+**[GreatZipsa](https://github.com/alsichcan/GreatZipsa):** Minimum Viable Products and Crawling Scripts to address inefficient Korean Housing Market  
+🔸[Apartment Fractional Investment Platform](https://github.com/alsichcan/GreatZipsa/tree/main/Apartment%20Fractional%20Investment%20Platform)  
+🔸[Private Rental Deposit Guarantee Insurance](https://github.com/alsichcan/GreatZipsa/tree/main/Private%20Rental%20Deposit%20Guarantee%20Insurance)  
+🔸[Short-term Subletting Service](https://github.com/alsichcan/GreatZipsa/tree/main/Short-term%20Subletting%20Service)  
+🔸[Workcation Center Fractional Investment Platform](https://github.com/alsichcan/GreatZipsa/tree/main/Workcation%20Fractional%20Investment%20Platform)  
 **[Modoom](https://github.com/alsichcan/Modoom):** Django-based web application for university students to address social isolation by COVID-19  
 **[Sound of the Heart](https://github.com/alsichcan/Sound-of-the-Heart):** Kotlin-based smartwatch-smartphone application for stress detection and recording  
 **[novelGPT](https://github.com/alsichcan/novelGPT):** OpenAI API-based web novel QA bot developed for my brother's task  
