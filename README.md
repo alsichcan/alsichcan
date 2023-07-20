@@ -18,7 +18,7 @@ Seoul National University (2017-2022)
 🔸[Short-term Subletting Service]()  
 🔸[Workcation Center Fractional Investment Platform]()  
 **[Modoom]():** Django-based web application for university students to address social isolation by COVID-19  
-**[ERGPT]():** (WIP) OpenAI API-based application to address the delay in transporting emergency patients
+**[ERGPT]():** (WIP) OpenAI API-based application to address the delay in transporting emergency patients  
 **[Sound of the Mind]():** Kotlin-based smartwatch-smartphone application for stress detection and recording
  
 ## 🔬 **Research Experience**  
