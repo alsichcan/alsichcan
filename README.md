@@ -6,7 +6,7 @@ Seoul National University (2017-2022)
 
 ## 🔧 **Tech Stack**  
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=pastic&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/Java-007396?style=pastic&logo=OpenJDK&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=pastic&logo=JavaScript&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=pastic&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/Java-007396?style=pastic&logo=OpenJDK&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=pastic&logo=JavaScript&logoColor=white"> <img src="https://img.shields.io/badge/SQL-FF3621?style=pastic&logo=Databricks&logoColor=white">
 
 <img src="https://img.shields.io/badge/Django-092E20?style=pastic&logo=Django&logoColor=white"> <img src="https://img.shields.io/badge/Selenium-43B02A?style=pastic&logo=Selenium&logoColor=white"> <img src="https://img.shields.io/badge/OpenAI-412991?style=pastic&logo=OpenAI&logoColor=white"> <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=pastic&logo=Amazon AWS&logoColor=white"> <img src="https://img.shields.io/badge/github-181717?style=pastic&logo=github&logoColor=white">
 
@@ -35,7 +35,7 @@ Undergraduate Research Assistant at [Human Factors Psychology Lab](https://hfpsy
 
 ## 🔍 **Other Tech-Related Experience**
 🔸 Designed **Dynamic Password System** for the 2020 ROKA Startup Competition | 🏅 Creativity Award  
-🔸 Full-Stack & Unity Study Interest Group in the [SNU Computer Study Club](https://scsc.snu.ac.kr/intro/index.html)  
+🔸 Led Full-Stack & Unity Study Interest Group in the [SNU Computer Study Club](https://scsc.snu.ac.kr/intro/index.html)  
 🔸 Teaching Assistant for 3 Programming Courses  
 🔸 Scholarship Student at [AI Institute of SNU](https://aiis.snu.ac.kr/)
 
