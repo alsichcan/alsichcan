@@ -5,9 +5,9 @@
   - 🥇 **Honors:** Summa Cum Laude (GPA: 4.08/4.3)
 
 🔧 **Tech Stack** 
-- **Programming Languages:** <img src="https://img.shields.io/badge/Python-3776AB?style=pastic&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
-- **Frameworks:** <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white">
-- **Tools:** <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white"> <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white"> <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=aws&logoColor=white"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+- **Programming Languages:** <img src="https://img.shields.io/badge/Python-3776AB?style=pastic&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/JAVA-007396?style=pastic&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=pastic&logo=JavaScript&logoColor=white">
+- **Frameworks:** <img src="https://img.shields.io/badge/Django-092E20?style=pastic&logo=Django&logoColor=white">
+- **Tools:** <img src="https://img.shields.io/badge/Selenium-43B02A?style=pastic&logo=Selenium&logoColor=white"> <img src="https://img.shields.io/badge/Selenium-43B02A?style=pastic&logo=Selenium&logoColor=white"> <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=pastic&logo=Amazon AWS&logoColor=white"> <img src="https://img.shields.io/badge/github-181717?style=pastic&logo=github&logoColor=white">
 
 
 🚀 **Technical Projects:**
@@ -34,4 +34,4 @@
 - TA roles for several programming courses
 - Worked as a Scholarship Student at AI Institute of SNU
 
-🔗 **Connect with me:** <a href="https://www.linkedin.com/in/jace-jisang-park/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/jace-jisang-park/"/></a> <a href="jace.jisang.park@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=jace.jisang.park@gmail.com"/></a>
+🔗 **Connect with me:** <a href="https://www.linkedin.com/in/jace-jisang-park/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=pastic&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/jace-jisang-park/"/></a> <a href="jace.jisang.park@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=pastic&logo=Gmail&logoColor=white&link=jace.jisang.park@gmail.com"/></a>
