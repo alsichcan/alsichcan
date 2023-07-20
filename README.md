@@ -12,7 +12,7 @@ Seoul National University (2017-2022)
 
 
 ## 🚀 **Technical Projects**
-**[GreatZipsa]():** Minimum Viable Products and Crawling Scripts to address inefficient Korean Housing Market 
+**[GreatZipsa]():** Minimum Viable Products and Crawling Scripts to address inefficient Korean Housing Market  
 🔸[Apartment Fractional Investment Platform]()  
 🔸[Private Rental Deposit Guarantee Insurance]()  
 🔸[Short-term Subletting Service]()  
