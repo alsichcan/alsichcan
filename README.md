@@ -39,5 +39,5 @@ Undergraduate Research Assistant at [Human Factors Psychology Lab](https://hfpsy
 🔸 Teaching Assistant for 3 Programming Courses  
 🔸 Scholarship Student at [AI Institute of SNU](https://aiis.snu.ac.kr/)
 
-## 🔗 **Cotact me**  
+## 🔗 **Contact me**  
 <a href="https://www.linkedin.com/in/jace-jisang-park/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=pastic&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/jace-jisang-park/"/></a> <a href="jace.jisang.park@gmail.com"><img src="https://img.shields.io/badge/jace.jisang.park@gmail.com-EA4335?style=pastic&logo=Gmail&logoColor=white&link=jace.jisang.park@gmail.com"/></a> <a href="jace.jisang.park@gmail.com"><img src="https://img.shields.io/badge/Portfolio-00A98F?style=pastic&logo=About.me&logoColor=white&link=jace.jisang.park@gmail.com"/></a>
